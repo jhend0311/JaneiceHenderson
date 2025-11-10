@@ -1,5 +1,5 @@
 # JaneiceHenderson
-Upcoming Computational Biology integrating bioinformatics, molecular modeling, and data science to advance biological discovery.
+Upcoming Computational Biologist integrating bioinformatics, molecular modeling, and data science to advance biological discovery.
 
 # Aspiring Computational Biologist & Data Science Graduate Student  
 
